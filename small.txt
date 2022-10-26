@@ -1,0 +1,12 @@
+@number1
+AGGTGTGTGTCGTCGATGATGTACGTAGCTGATCG
++
+abcdefghijklmnopqrstuvxyz
+@number2
+AGTCAGTGCATGCTAGCTAGCTGAAAAAAATGCTA
++
+abcdefghijklmnopqrstuvxyz
+@number3
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
++
+abcdefghijklmnopqrstuvxyz
